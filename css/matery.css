@@ -250,7 +250,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, rgb(2, 195, 253) 100%, rgb(255, 5, 5) 100%);
+    background-image: linear-gradient(to right, rgb(2, 195, 253) 100%, rgb(2, 195, 253) 100%);
 }
 
 @-webkit-keyframes rainbow {
