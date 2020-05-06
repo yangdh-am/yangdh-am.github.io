@@ -250,7 +250,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #e7fa90 0%, #e7fa90 100%);
+    background-image: linear-gradient(to right, #fff 0%, #fff 100%);
 }
 
 @-webkit-keyframes rainbow {
@@ -266,7 +266,7 @@ mark {
 }
 
 .white-color {
-    color: #fff;
+    color: rgb(0, 151, 252);
 }
 
 .progress-bar {
